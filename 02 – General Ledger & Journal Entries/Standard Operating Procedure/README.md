@@ -1,25 +1,26 @@
-# SOP 01 – Month-End Close
+# SOP 02 – General Ledger & Journal Entries
 
 ## Overview
-This Standard Operating Procedure defines the end-to-end month-end
-close process to ensure timely, accurate, and complete financial
-reporting.
+This Standard Operating Procedure governs the preparation,
+review, approval, and posting of general ledger journals to
+ensure accuracy, consistency, and auditability of financial
+records.
 
-The SOP establishes clear responsibilities, timelines, review controls,
-and sign-off requirements to support reliable management and statutory
-reporting.
+The SOP supports strong internal controls over manual and
+system-generated journal entries.
 
 ## Key Areas
-• Month-end close planning and timetable  
-• Data completeness and cut-off controls  
-• Journal processing and review  
-• Reconciliations and variance analysis  
-• Management review and final sign-off  
+• Journal identification and preparation  
+• Supporting documentation requirements  
+• Review and approval controls  
+• Segregation of duties  
+• Audit trail and traceability  
 
-## Outputs
-• Closed general ledger for the reporting period  
-• Management accounts  
-• Supporting schedules and reconciliations  
+## Journal Types Covered
+• Accruals and pre-payments  
+• Reclassifications  
+• Corrections of errors  
+• Period-end adjustments  
 
 ## Standards
 IFRS – Accrual Basis of Accounting  
