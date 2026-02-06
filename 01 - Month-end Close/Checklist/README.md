@@ -13,6 +13,7 @@ The checklists translate documented procedures into practical,
 repeatable actions performed during each reporting period.
 
 They are used to:
+
 • Track progress against the close timetable  
 • Assign responsibility for each activity  
 • Evidence completion and review  
