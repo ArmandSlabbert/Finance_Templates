@@ -45,25 +45,25 @@ Each SOP folder contains:
 ## 📁 Repository Navigation
 
 ### Core Close & Reporting
-- [SOP 01 – Month-End Close](./01%20-%20Month-End%20Close/)
-- [SOP 02 – General Ledger & Journal Entries](./02%20-%20General%20Ledger%20%26%20Journal%20Entries/)
-- [SOP 03 – Balance Sheet Reconciliations](./03%20-%20Balance%20Sheet%20Reconciliations/)
-- [SOP 04 – Revenue Recognition & Cut-Off](./04%20-%20Revenue%20Recognition%20%26%20Cut-Off/)
+- SOP 01 – Month-End Close
+- SOP 02 – General Ledger & Journal Entries
+- SOP 03 – Balance Sheet Reconciliations
+- SOP 04 – Revenue Recognition & Cut-Off
 
 ### Statutory & People
-- [SOP 05 – VAT & Tax Compliance](./05%20-%20VAT%20%26%20Tax%20Compliance/)
-- [SOP 06 – Payroll & Independent Contractors](./06%20-%20Payroll%20%26%20Independent%20Contractors/)
+- SOP 05 – VAT & Tax Compliance
+- SOP 06 – Payroll & Independent Contractors
 
 ### Adjustments & Technical
-- [SOP 07 – Prepayments & Accruals](./07%20-%20Prepayments%20%26%20Accruals/)
-- [SOP 08 – Post-Close Adjustments & Reclassification](./08%20-%20Post-Close%20Adjustments%20%26%20Reclassification/)
+- SOP 07 – Prepayments & Accruals
+- SOP 08 – Post-Close Adjustments & Reclassification
 
 ### Cash & Evidence
-- [SOP 09 – Cash & Banking](./09%20-%20Cash%20%26%20Banking/)
-- [SOP 10 – Document Retention & Audit Evidence](./10%20-%20Document%20Retention%20%26%20Audit%20Evidence/)
+- SOP 09 – Cash & Banking
+- SOP 10 – Document Retention & Audit Evidence
 
 ### Governance
-- [SOP 11 – Controls & Escalation](./11%20-%20Controls%20%26%20Escalation/)
+- SOP 11 – Controls & Escalation
 
 ---
 
