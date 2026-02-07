@@ -11,9 +11,6 @@ operational and strategic finance roles.
 • Board reporting templates
 • Finance SOPs
 
-## Tools
-Excel, PDF
-
 ## Finance Operating Model
 
 This repository is structured to reflect how a controlled finance
@@ -21,6 +18,9 @@ function operates from transaction capture through to reporting,
 audit evidence, and risk escalation.
 
 Capture → Validate → Reconcile → Close → Report → Govern
+
+## Tools
+Excel, PDF
 
 ## Disclaimer
 All data is anonymised or dummy data.
