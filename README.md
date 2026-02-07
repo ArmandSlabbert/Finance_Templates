@@ -29,7 +29,7 @@ Together, these components form a complete finance control environment.
 
 ---
 
-## 🧭 Finance Operating Process Flow
+## Finance Operating Process Flow
 
 The structure of this repository follows the lifecycle of financial
 information within an organisation.
@@ -42,7 +42,7 @@ Each SOP folder contains:
 
 ---
 
-## 📁 Repository Navigation
+## Repository Navigation
 
 ### Core Close & Reporting
 - SOP 01 – Month-End Close
@@ -67,10 +67,10 @@ Each SOP folder contains:
 
 ---
 
-## 🚀 Where to Start
+##  Where to Start
 If you are new to the repository, begin with:
 
-👉 **SOP 01 – Month-End Close**
+-> **SOP 01 – Month-End Close**
 
 It provides the backbone that links journals, reconciliations,
 compliance, reporting, and governance.
