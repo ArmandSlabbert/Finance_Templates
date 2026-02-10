@@ -6,14 +6,15 @@ review, approval, and posting of general ledger journals to
 ensure accuracy, consistency, and auditability of financial
 records.
 
-The SOP supports strong internal controls over manual and
-system-generated journal entries.
+The SOP supports strong internal controls over both manual
+and system-generated journal entries.
 
 ## Key Areas
 • Journal identification and preparation  
 • Supporting documentation requirements  
 • Review and approval controls  
 • Segregation of duties  
+• Posting authority  
 • Audit trail and traceability  
 
 ## Journal Types Covered
@@ -21,6 +22,7 @@ system-generated journal entries.
 • Reclassifications  
 • Corrections of errors  
 • Period-end adjustments  
+• Reversals  
 
 ## Standards
 IFRS – Accrual Basis of Accounting  
