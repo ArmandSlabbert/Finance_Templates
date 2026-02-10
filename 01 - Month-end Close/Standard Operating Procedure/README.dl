@@ -1,24 +1,23 @@
-# 📘 SOP 01 – Month-End Close Process  
+# 📘 SOP 01 – Month-End Close Process
 
-**Location:** `finance-templates/02 - General Ledger & Journal Entries/Standard Operating Procedure`
+**Location:** `finance-templates/01 - Month-end Close/Standard Operating Procedure`
 
 ## Overview
 This directory contains the official Standard Operating Procedure governing the execution of the month-end close.
 
-The objective is to ensure reporting is:
+The aim is to:
 
-- accurate  
-- complete  
-- timely  
-- repeatable  
-- audit defensible  
+- protect financial integrity  
+- ensure consistency  
+- maintain audit defensibility  
+- deliver timely reporting  
 
-The close process is the backbone of financial control.
+This is the backbone of the finance control environment.
 
 ---
 
 ## What This SOP Covers
-The procedure establishes mandatory governance for:
+The procedure defines mandatory governance for:
 
 - Roles and responsibilities  
 - Status progression  
@@ -37,7 +36,7 @@ It applies to **all entities and reporting periods**.
 
 ### 📄 Main SOP Document
 - **SOP_01_Month_End_Close_Process.docx**  
-  Defines the operating model, approval expectations, and control requirements.
+Defines the operating model, approval expectations, and control requirements.
 
 **Document metadata**
 - Version: 1.0  
