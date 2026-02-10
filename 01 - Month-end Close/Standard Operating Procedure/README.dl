@@ -1,44 +1,94 @@
-#  SOP 01 – Month-End Close
+# 📘 SOP 01 – Month-End Close  
+**Location:** `finance-templates/01 - Month-end Close/Standard Operating Procedure`
 
 ## Overview
-This Standard Operating Procedure governs the execution of the
-month-end close to ensure financial information is accurate,
-complete, timely, and fully supportable.
+This directory contains the official Standard Operating Procedure governing the execution of the month-end close.
 
-The SOP establishes a controlled and repeatable framework
-for preparing, reviewing, and approving close activities.
+The aim is to:
 
-## Key Areas
-• Roles and responsibilities  
-• Close workflow and task lifecycle  
-• Status and RAG monitoring  
-• Evidence and documentation requirements  
-• Estimates and exception handling  
-• Dependency management  
-• Post-close adjustment governance  
-• Version control and approvals  
+- protect financial integrity  
+- ensure completeness and accuracy  
+- deliver timely reporting  
+- maintain audit defensibility  
+- prevent uncontrolled or undocumented changes  
 
-## Close Framework
-• Locked master template  
-• Controlled working files  
-• Assumption tracking  
-• Evidence hierarchy  
-• Structured sign-off  
+This is the foundation of the finance control environment.
 
-## Control Philosophy
-• No task is complete without evidence  
-• Independent review is mandatory  
-• Changes after preparation require visibility  
-• Risk and materiality drive escalation  
+---
 
-## Timeline
-The standard close cycle typically spans approximately
-ten working days, depending on complexity.
+## What This SOP Covers
+The procedure defines mandatory rules for:
 
-## Standards
-IFRS – Fair Presentation & Accrual Accounting  
-IAS 1 – Presentation of Financial Statements  
+- Roles and responsibilities  
+- Task ownership and lifecycle  
+- Status progression  
+- RAG risk monitoring  
+- Evidence standards  
+- Estimates and judgement areas  
+- Dependency management  
+- Post-close adjustment governance  
+- Version control  
 
-## Disclaimer
-This SOP uses dummy data and is provided for portfolio
-and educational purposes only.
+It applies to **all entities**, **all reporting periods**, and **all close activities**.
+
+---
+
+## Repository Contents
+
+### 📄 Main SOP Document
+**SOP_01_Month_End_Close_Process.docx**  
+Formal control document defining responsibilities, workflow, approvals, and documentation expectations.
+
+**Document metadata**
+
+- Version: 1.0  
+- Effective Date: 03 February 2026  
+- Document Owner: Armand Slabbert  
+
+---
+
+## Control Principles Embedded in This SOP
+
+### 1) Repeatability  
+The close must follow a consistent, structured process every month.
+
+### 2) Evidence First  
+If a task cannot be supported, it is not complete.
+
+### 3) Independent Review  
+Preparation and approval must be segregated.
+
+### 4) Transparency  
+Progress, risks, and changes must be visible.
+
+### 5) Controlled Change  
+Post-preparation and post-close changes require approval.
+
+---
+
+## When To Use This Document
+Use this SOP whenever you are:
+
+- Running the month-end process  
+- Assigning responsibilities  
+- Tracking close progress  
+- Managing risks and delays  
+- Preparing audit support  
+- Training finance team members  
+- Assessing control effectiveness  
+
+---
+
+## Typical Close Duration
+The close cycle typically spans **approximately ten working days**, depending on business complexity and system readiness.
+
+---
+
+## Expected Outcomes
+Following this SOP should result in:
+
+- Predictable close timelines  
+- Reduced surprises  
+- Stronger accountability  
+- Cleaner audits  
+- Higher confidence in reported numbers  
